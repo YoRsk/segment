@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3945ccf-6a51-4ee8-97df-37608e4d6f03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/segment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Betula.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Betula.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Betula.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Betula.qmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Betula.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Betula.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Harigiri.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Harigiri.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Harigiri.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Harigiri.qmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Harigiri.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Harigiri.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Oak.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Oak.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Oak.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Oak.qmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Oak.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Oak.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Rowan.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Rowan.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Rowan.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Rowan.qmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Rowan.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Japanese Rowan.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Painted Maple.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Painted Maple.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Painted Maple.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Painted Maple.qmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Painted Maple.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Painted Maple.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Fir.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Fir.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Fir.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Fir.qmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Fir.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Fir.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojsoncategoried.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/individual_urban_tree_crown_detection/MMdetecion_v_2_0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/individual_urban_tree_crown_detection/MMdetecion_v_2_0.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojson.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bOzV6qzHYKyWLJyMBSzJc1epat" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.txt2cocojson.executor": "Run",
+    "Python.txt2cocojsoncategoried.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/liuyi/segment/segment/Swin-Transformer-Object-Detection",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liuyi\segment\segment\Swin-Transformer-Object-Detection" />
+      <recent name="C:\Users\liuyi\segment\segment\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\liuyi\segment\segment\individual_urban_tree_crown_detection\annotations\4" />
+      <recent name="C:\Users\liuyi\segment\segment\individual_urban_tree_crown_detection\annotations\3" />
+      <recent name="C:\Users\liuyi\segment\segment\individual_urban_tree_crown_detection\annotations\2" />
+      <recent name="C:\Users\liuyi\segment\segment\individual_urban_tree_crown_detection\annotations\1" />
+      <recent name="C:\Users\liuyi\segment\segment\individual_urban_tree_crown_detection\annotations\0" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.txt2cocojsoncategoried">
+    <configuration name="txt2cocojson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segment" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="txt2cocojsoncategoried" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segment" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojsoncategoried.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.txt2cocojsoncategoried" />
+        <item itemvalue="Python.txt2cocojson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3945ccf-6a51-4ee8-97df-37608e4d6f03" name="Changes" comment="" />
+      <created>1706100933623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706100933623</updated>
+      <workItem from="1706100947186" duration="16928000" />
+      <workItem from="1706333918615" duration="3462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/segment$txt2cocojsoncategoried.coverage" NAME="txt2cocojsoncategoried Coverage Results" MODIFIED="1706336754761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
+    <SUITE FILE_PATH="coverage/segment$txt2cocojson.coverage" NAME="txt2cocojson Coverage Results" MODIFIED="1706336252376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
+  </component>
+</project>
