@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3945ccf-6a51-4ee8-97df-37608e4d6f03" name="Changes" comment="">
+    <list default="true" id="a3945ccf-6a51-4ee8-97df-37608e4d6f03" name="Changes" comment="add cocojson,initialized sccessfully">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/segment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/datasets/faster_rcnn_coco_instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/models/faster_rcnn_swin_fpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/swin/faster_rcnn_swin_t-p4-w7_fpn_3x_coco.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Betula.cpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Betula.dbf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Betula.prj" afterDir="false" />
@@ -50,8 +50,12 @@
       <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.cpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.dbf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.prj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojsoncategoried.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/segment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/segment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/datasets/coco_instance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/datasets/coco_instance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/default_runtime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/default_runtime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/models/mask_rcnn_swin_fpn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/models/mask_rcnn_swin_fpn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdet/datasets/coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdet/datasets/coco.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/individual_urban_tree_crown_detection/MMdetecion_v_2_0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/individual_urban_tree_crown_detection/MMdetecion_v_2_0.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,13 +71,16 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Swin-Transformer-Object-Detection" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojson.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -90,9 +97,9 @@
     "Python.txt2cocojsoncategoried.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/liuyi/segment/segment/Swin-Transformer-Object-Detection",
+    "last_opened_file_path": "C:/Users/liuyi/segment/segment/Swin-Transformer-Object-Detection/data/coco",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,6 +111,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liuyi\segment\segment\Swin-Transformer-Object-Detection\data\coco" />
       <recent name="C:\Users\liuyi\segment\segment\Swin-Transformer-Object-Detection" />
       <recent name="C:\Users\liuyi\segment\segment\data" />
     </key>
@@ -185,8 +193,17 @@
       <option name="presentableId" value="Default" />
       <updated>1706100933623</updated>
       <workItem from="1706100947186" duration="16928000" />
-      <workItem from="1706333918615" duration="3462000" />
+      <workItem from="1706333918615" duration="10733000" />
     </task>
+    <task id="LOCAL-00001" summary="add cocojson,initialized sccessfully">
+      <option name="closed" value="true" />
+      <created>1706338168782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706338168782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,8 +220,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add cocojson,initialized sccessfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cocojson,initialized sccessfully" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/segment$txt2cocojsoncategoried.coverage" NAME="txt2cocojsoncategoried Coverage Results" MODIFIED="1706336754761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
+    <SUITE FILE_PATH="coverage/segment$txt2cocojsoncategoried.coverage" NAME="txt2cocojsoncategoried Coverage Results" MODIFIED="1706342931927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
     <SUITE FILE_PATH="coverage/segment$txt2cocojson.coverage" NAME="txt2cocojson Coverage Results" MODIFIED="1706336252376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/individual_urban_tree_crown_detection" />
   </component>
 </project>
