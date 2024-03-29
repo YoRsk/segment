@@ -8,9 +8,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/datasets/faster_rcnn_coco_instance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/models/faster_rcnn_swin_fpn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/swin/faster_rcnn_swin_t-p4-w7_fpn_3x_coco.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Betula.cpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Betula.dbf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Betula.prj" afterDir="false" />
@@ -50,14 +47,7 @@
       <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.cpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.dbf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/Sakhalin Spruce.prj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/segment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/segment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdet/core/evaluation/class_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdet/core/evaluation/class_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdet/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdet/version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdetection/mmdet/datasets/coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdetection/mmdet/datasets/coco.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/individual_urban_tree_crown_detection/todo.py" beforeDir="false" afterPath="$PROJECT_DIR$/individual_urban_tree_crown_detection/todo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +62,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Swin-Transformer-Object-Detection" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/individual_urban_tree_crown_detection/txt2cocojson.py" root0="FORCE_HIGHLIGHTING" />
@@ -249,6 +240,7 @@
       <workItem from="1706352947233" duration="3145000" />
       <workItem from="1706356164845" duration="10197000" />
       <workItem from="1709995980761" duration="30000" />
+      <workItem from="1711689427315" duration="751000" />
     </task>
     <task id="LOCAL-00001" summary="add cocojson,initialized sccessfully">
       <option name="closed" value="true" />
@@ -274,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706345875188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="swin-maskrcnn,lack some field in dataset(details in todo.py)">
+      <option name="closed" value="true" />
+      <created>1711689762434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711689762434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
