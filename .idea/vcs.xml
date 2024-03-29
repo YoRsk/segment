@@ -2,8 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Swin-Transformer-Object-Detection" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdetection" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/individual_urban_tree_crown_detection" vcs="Git" />
   </component>
 </project>
