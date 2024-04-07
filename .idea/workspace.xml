@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3945ccf-6a51-4ee8-97df-37608e4d6f03" name="Changes" comment="merge to my repo">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/swin/yolov3_swin_mstrain-608_3x_coco.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/swin/faster_rcnn_swin_t-p4-w7_fpn_3x_coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/swin/faster_rcnn_swin_t-p4-w7_fpn_3x_coco.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,6 +201,9 @@
       <workItem from="1706356164845" duration="10197000" />
       <workItem from="1709995980761" duration="30000" />
       <workItem from="1711689427315" duration="1528000" />
+      <workItem from="1711690981323" duration="833000" />
+      <workItem from="1712316007500" duration="609000" />
+      <workItem from="1712473095462" duration="17653000" />
     </task>
     <task id="LOCAL-00001" summary="add cocojson,initialized sccessfully">
       <option name="closed" value="true" />
@@ -233,7 +237,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711689762434</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="merge to my repo">
+      <option name="closed" value="true" />
+      <created>1711691016015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711691016015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="merge to my repo">
+      <option name="closed" value="true" />
+      <created>1711691104859</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711691104859</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
