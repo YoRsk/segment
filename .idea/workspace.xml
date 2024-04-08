@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3945ccf-6a51-4ee8-97df-37608e4d6f03" name="Changes" comment="merge to my repo">
-      <change afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/swin/yolov3_swin_mstrain-608_3x_coco.py" afterDir="false" />
+    <list default="true" id="a3945ccf-6a51-4ee8-97df-37608e4d6f03" name="Changes" comment="revise the lr, and add yolov3 model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/swin/faster_rcnn_swin_t-p4-w7_fpn_3x_coco.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/swin/faster_rcnn_swin_t-p4-w7_fpn_3x_coco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/datasets/faster_rcnn_coco_instance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/datasets/faster_rcnn_coco_instance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/default_runtime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swin-Transformer-Object-Detection/configs/_base_/default_runtime.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +203,7 @@
       <workItem from="1711689427315" duration="1528000" />
       <workItem from="1711690981323" duration="833000" />
       <workItem from="1712316007500" duration="609000" />
-      <workItem from="1712473095462" duration="17653000" />
+      <workItem from="1712473095462" duration="27713000" />
     </task>
     <task id="LOCAL-00001" summary="add cocojson,initialized sccessfully">
       <option name="closed" value="true" />
@@ -253,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711691104859</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="revise the lr, and add yolov3 model">
+      <option name="closed" value="true" />
+      <created>1712501854602</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712501854602</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +287,8 @@
     <MESSAGE value="add cocojson,initialized sccessfully" />
     <MESSAGE value="swin-maskrcnn,lack some field in dataset(details in todo.py)" />
     <MESSAGE value="merge to my repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge to my repo" />
+    <MESSAGE value="revise the lr, and add yolov3 model" />
+    <option name="LAST_COMMIT_MESSAGE" value="revise the lr, and add yolov3 model" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/segment$coco.coverage" NAME="coco Coverage Results" MODIFIED="1706355114998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Swin-Transformer-Object-Detection/mmdet/datasets" />

@@ -7,7 +7,7 @@ train_pipeline = [
     dict(type='LoadImageFromFile'),
     dict(type='LoadAnnotations', with_bbox=True, with_mask=False),
     # dict(type='LoadAnnotations', with_bbox=True, with_mask=True),
-    dict(type='Resize', img_scale=(448, 448), keep_ratio=True),
+    dict(type='Resize', img_scale=(512, 512), keep_ratio=True),
     dict(type='RandomFlip', flip_ratio=0.5),
     dict(type='Normalize', **img_norm_cfg),
     dict(type='Pad', size_divisor=32),
@@ -18,6 +18,7 @@ test_pipeline = [
     dict(type='LoadImageFromFile'),
     dict(
         type='MultiScaleFlipAug',
+        # img_scale=(484, 484), 448会出错，但如果train 是448 test是512竟然还不会出错
         img_scale=(512, 512),
         flip=False,
         transforms=[
